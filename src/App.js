@@ -1,7 +1,6 @@
 import moment from "moment";
 import React, { useState, useEffect } from "react";
 import { bankHolidays } from "./bank-holidays";
-import DatePicker from "react-datepicker";
 
 import "./App.css";
 
